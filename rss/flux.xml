@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Watson</title>
+        <atom:link href="http://localhost/UE3DW18-Groupe1-Solo/rss/flux.xml" rel="self" type="application/rss+xml" />
+        <link>http://localhost/UE3DW18-Groupe1-Solo/rss/flux.xml</link>
+        <description>Flux RSS du site Watson</description>
+        <item>
+            <title>Campus Virtuel TIC</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/1</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/1</link>
+            <description>Site internet du CvTIC.</description>
+        </item>
+        <item>
+            <title>Duck Duck Go</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/2</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/2</link>
+            <description>Le moteur de recherche qui ne trace pas ses utilisateurs.</description>
+        </item>
+        <item>
+            <title>Framasoft</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/3</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/3</link>
+            <description>Un réseau dédié à la promotion du « libre » en général et du logiciel libre en particulier.</description>
+        </item>
+        <item>
+            <title>Flexboxfroggy</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/4</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/4</link>
+            <description>Un jeu pour apprendre le flex.</description>
+        </item>
+        <item>
+            <title>Openclassroom</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/5</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/5</link>
+            <description>Pour apprendre la programmation.</description>
+        </item>
+        <item>
+            <title>Grafikart</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/6</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/6</link>
+            <description>Des tutos vidéos pour apprendre à coder.</description>
+        </item>
+        <item>
+            <title>Wikipédia - Agrégateurs</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/7</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/7</link>
+            <description>Pour comprendre l&apos;utilité des agrégateurs</description>
+        </item>
+        <item>
+            <title>World Wide Web Consortium</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/8</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/8</link>
+            <description>Site qui sert à prendre connaissance des standards du web</description>
+        </item>
+        <item>
+            <title>Wikipédia - RSS</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/9</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/9</link>
+            <description>Comprendre l&apos;utilité du RSS</description>
+        </item>
+        <item>
+            <title>Documentation docker</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/10</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/10</link>
+            <description>Site officiel de docker, la documentation pour tout comprendre</description>
+        </item>
+        <item>
+            <title>Site officiel de Composer</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/11</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/11</link>
+            <description>Site de composer</description>
+        </item>
+        <item>
+            <title>Site officiel de Bootstrap</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/12</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/12</link>
+            <description>Site de bootstrap avec documentation</description>
+        </item>
+        <item>
+            <title>Wikipédia - LAMP</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/13</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/13</link>
+            <description>La page wikipedia sur LAMP</description>
+        </item>
+        <item>
+            <title>Google ateliers numériques</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/14</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/14</link>
+            <description>Site pour se former au digital</description>
+        </item>
+        <item>
+            <title>Freecodecamp</title>
+            <guid isPermaLink="true">http://localhost/UE3DW18-Groupe1-Solo/web/link/15</guid>
+            <link>http://localhost/UE3DW18-Groupe1-Solo/web/link/15</link>
+            <description>Apprendre la programmation (site en anglais)</description>
+        </item>
+    </channel>
+</rss>
