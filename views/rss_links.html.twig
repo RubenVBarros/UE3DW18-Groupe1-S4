@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Flux RSS de Watson Links</title>
+        <link>http://www.watson-links.fr</link>
+        <description>Flux RSS de Watson Links</description>
+        {% for link in links %}
+			<item>
+                <title>{{ lien.titre }}</title>
+                <link>{{ lien.url }}</link>
+                <description>{{ lien.desc }}</description>
+            </item>
+		{% endfor %}
+    </channel>
+</rss
